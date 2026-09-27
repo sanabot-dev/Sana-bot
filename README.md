@@ -1,5 +1,7 @@
 # 🍭 Sana
 
+[English](README.md) • [Português](docs/README_PT-BR.md) • [Español](docs/README_ES.md)
+
 A multilingual K-pop photocard collecting bot for Discord.
 
 Collect your favorite idols, trade with other collectors, participate in events, and build your collection through Drops, GENs, boxes, and the global Market.
