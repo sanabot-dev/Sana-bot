@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../assets/sana banner.png" alt="Banner de Sana">
+</p>
+
 # 🍭 Sana
 
 [English](../README.md) • [Português](README_PT-BR.md) • [Español](README_ES.md)
@@ -33,17 +37,33 @@ Usa Drops, recompensas Daily, GENs, cajas y eventos para ampliar tu colección.
 
 Las cartas pueden pertenecer a diferentes idols, grupos, eras y eventos, permitiendo crear desde una colección dedicada a tu idol favorito hasta catálogos completos de grupos.
 
+<p align="center">
+  <img src="../assets/sana drop.png" alt="Ejemplo de Drop de Sana" width="550">
+</p>
+
 ## 🔄 Intercambia
 
 Intercambia cartas directamente con otros coleccionistas mediante el sistema interactivo de trades de Sana.
+
+<p align="center">
+  <img src="../assets/sana%20trade.png" alt="Ejemplo de Trade de Sana" width="700">
+</p>
 
 ## 🏷️ Market
 
 Publica cartas globalmente, encuentra cartas de tu Wishlist y compra directamente a otros coleccionistas.
 
+<p align="center">
+  <img src="../assets/sana market.png" alt="Ejemplo del Market de Sana" width="700">
+</p>
+
 ## 💗 Organiza tu colección
 
-Wishlist, protección NFT, Blacklist, filtros de inventario y otras herramientas de colección te ayudan a organizar tu colección de la forma que prefieras.
+Wishlist, protección NFT, Blacklist, filtros de inventario y herramientas de colección te ayudan a organizar tu colección de la forma que prefieras.
+
+<p align="center">
+  <img src="../assets/sana inventory.png" alt="Ejemplo de Inventario de Sana" width="700">
+</p>
 
 ## 🌎 Idiomas
 
