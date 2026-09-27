@@ -50,7 +50,7 @@ Trade cards directly with other collectors through Sana's interactive trade syst
 List cards globally, find cards from your Wishlist, and buy directly from other collectors.
 
 <p align="center">
-  <img src="assets/market.png" alt="Sana Market example" width="700">
+  <img src="assets/sana market.png" alt="Sana Market example" width="700">
 </p>
 
 ## 💗 Organize your collection
@@ -58,7 +58,7 @@ List cards globally, find cards from your Wishlist, and buy directly from other 
 Wishlist, NFT protection, Blacklist, inventory filters, and collection tools help you customize exactly how you want to collect.
 
 <p align="center">
-  <img src="assets/inventory.png" alt="Sana Inventory example" width="700">
+  <img src="assets/sana inventory.png" alt="Sana Inventory example" width="700">
 </p>
 
 ## 🌎 Languages
