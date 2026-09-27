@@ -45,6 +45,10 @@ Cards can belong to different idols, groups, eras, and events, allowing collecto
 
 Trade cards directly with other collectors through Sana's interactive trade system.
 
+<p align="center">
+  <img src="assets/sana%20trade.png" alt="Sana Trade example" width="700">
+</p>
+
 ## 🏷️ Market
 
 List cards globally, find cards from your Wishlist, and buy directly from other collectors.
