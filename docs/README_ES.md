@@ -6,7 +6,7 @@ Un bot multilingüe de colección de photocards de K-pop para Discord.
 
 Colecciona a tus idols favoritos, intercambia cartas con otros coleccionistas, participa en eventos y desarrolla tu colección mediante Drops, GENs, cajas y el Market global.
 
-[🍭 Invitar a Sana](https://sanabot.win/invite-bot) • [💬 Servidor de Soporte](https://discord.gg/sana-bot)
+[Invitar a Sana](https://sanabot.win/invite-bot) • [Servidor de Soporte](https://discord.gg/sana-bot)
 
 ---
 
