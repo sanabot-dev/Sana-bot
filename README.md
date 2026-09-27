@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/sana banner.png" alt="Sana Banner">
+</p>
+
 # 🍭 Sana
 
 [English](README.md) • [Português](docs/README_PT-BR.md) • [Español](docs/README_ES.md)
@@ -33,6 +37,10 @@ Use Drops, Daily rewards, GENs, boxes, and events to expand your collection.
 
 Cards can belong to different idols, groups, eras, and events, allowing collectors to build anything from a favorite idol collection to complete group catalogs.
 
+<p align="center">
+  <img src="assets/sana drop.png" alt="Sana Drop example" width="550">
+</p>
+
 ## 🔄 Trade
 
 Trade cards directly with other collectors through Sana's interactive trade system.
@@ -41,9 +49,17 @@ Trade cards directly with other collectors through Sana's interactive trade syst
 
 List cards globally, find cards from your Wishlist, and buy directly from other collectors.
 
+<p align="center">
+  <img src="assets/market.png" alt="Sana Market example" width="700">
+</p>
+
 ## 💗 Organize your collection
 
 Wishlist, NFT protection, Blacklist, inventory filters, and collection tools help you customize exactly how you want to collect.
+
+<p align="center">
+  <img src="assets/inventory.png" alt="Sana Inventory example" width="700">
+</p>
 
 ## 🌎 Languages
 
